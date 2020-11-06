@@ -1,0 +1,33 @@
+{
+    "name": "BaseControls",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "2cae95f1-8339-4ec3-9b4c-4d79cfeb4993",
+            "actions": [
+                {
+                    "name": "MoveCamera",
+                    "type": "Button",
+                    "id": "734f5d12-a660-42ce-a902-cb3a1e5acb9f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fc075001-95f7-4134-8991-543af330d10b",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveCamera",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
